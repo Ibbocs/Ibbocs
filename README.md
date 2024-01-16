@@ -1,4 +1,4 @@
-###Hi 👋 My name is Ibrahim
+### Hi 👋 I am Ibrahim
 
 Junior .Net Developer
 ---------------------
