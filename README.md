@@ -1,5 +1,3 @@
-### Hi 👋 I am Ibrahim
-
 Junior .Net Developer
 ---------------------
 
