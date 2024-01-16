@@ -1,7 +1,6 @@
 Junior .Net Developer
 ---------------------
-
-* ✉️  You can contact me at [ibrahusey0@gmail.com](mailto:ibrahusey0@gmail.com)
+✉️  You can contact me at [ibrahusey0@gmail.com](mailto:ibrahusey0@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=Ibbocs&style=flat-square&color=lightgrey)
 
