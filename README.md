@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Junior .Net Developer
+---------------------
+
+* ✉️  You can contact me at [ibrahusey0@gmail.com](mailto:ibrahusey0@gmail.com)
+
+<a href="https://www.github.com/Ibbocs" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Ibbocs?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-huseynov) 
 
