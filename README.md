@@ -1,4 +1,4 @@
-Junior .Net Developer
+Middle .Net Developer
 ---------------------
 ✉️  You can contact me at [ibrahusey0@gmail.com](mailto:ibrahusey0@gmail.com)
 
